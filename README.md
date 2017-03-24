@@ -29,3 +29,4 @@ Data for non-regression testing of SnPM
     ```
  6. A window "check SnPM version" opens and says "Current version of SnPM: SnPM8. Is that okay?", answer "yes".
  7. Follow instructions in the MATLAB prompt to create the ground truth data, click "continue" and "done" when prompted.
+ 8. Make a copy of the `onesample_1` folder and rename it `onesample_no_ext_in_results`
